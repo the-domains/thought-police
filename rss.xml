@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thought Police]]></title>
+        <description><![CDATA[Thought Police]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 23:34:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Summer Sky - Thought Police EP]]></title>
+            <description><![CDATA[<article><h1>Summer Sky - Thought Police EP</h1><p>New music from the debut EP from Thought Police. https://itunes.apple.com/us/album/thought-police-ep/id836489762 Give the album a listen! Your support and feedback is always welcomed and encouraged. Happy listening! www.thoughtpolicemusic.com Twitter: http://twitter.com/TPoliceMusic Facebook: https://www.facebook.com/thoughtpolicemusic Youtube: http://www.youtube.com/user/thoughtpoliceband Bandcamp: http://thoughtpolice.bandcamp.com/ Contact: thoughtpoliceband@gmail.com</p><img src="https://i.ytimg.com/vi/M952gN-lvr4/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=M952gN-lvr4</link>
+            <guid isPermaLink="false">130241aa-b1bc-4bb5-89ba-417ccf012ccb</guid>
+            <pubDate>Mon, 23 Nov 2015 23:33:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
