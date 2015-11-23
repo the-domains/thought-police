@@ -1,6 +1,6 @@
 name: Thought Police
 favicon: null
-layout_spectrum: 0.568754153791815
+layout_spectrum: 0.89796
 typography_spectrum: 0.80961
 title: Thought Police
 cta:
@@ -22,8 +22,8 @@ color:
     - '#534f50'
     - '#918f9a'
     - '#d5cac6'
-  brandStrength: 0.5625
+  brandStrength: 0.875
   lightness: 0.75
-  saturation: 0.5625
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
