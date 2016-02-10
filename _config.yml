@@ -1,29 +1,41 @@
-name: Thought Police
-favicon: null
-layout_spectrum: 0.26238
-typography_spectrum: 0.52248
 title: Thought Police
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.4375
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#191718'
     - '#534f50'
     - '#918f9a'
     - '#d5cac6'
-  brandStrength: 0.4375
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Thought Police
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.52248
+layout_spectrum: 0.4838883
